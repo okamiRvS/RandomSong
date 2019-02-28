@@ -70,7 +70,7 @@ public class Main extends JFrame implements ActionListener {
 		});
 		trayPopupMenu.add(action);
 
-		// 2nd menuitem of popupmenu
+		// 2nd menu item of popup menu
 		MenuItem close = new MenuItem("Close");
 		close.addActionListener(new ActionListener() {
 			@Override
