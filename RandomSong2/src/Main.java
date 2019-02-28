@@ -57,7 +57,7 @@ public class Main extends JFrame implements ActionListener {
 		// popupmenu
 		PopupMenu trayPopupMenu = new PopupMenu();
 
-		// 1t menuitem for popupmenu
+		// 1t menu item for popup menu
 		MenuItem action = new MenuItem("Open");
 
 		action.addActionListener(new ActionListener() {
